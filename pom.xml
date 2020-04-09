@@ -17,7 +17,7 @@
         <cxf.version>3.1.10</cxf.version>
     </properties>
 
-    <artifactId>Cli-CustomerService</artifactId>
+    <artifactId>CliCustomerService</artifactId>
 
 
     <build>
